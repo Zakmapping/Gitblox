@@ -16,7 +16,7 @@ https://create.roblox.com/store/asset/857927023/HD-Admin
 ### CLASSIC HD Admin:
 1- You can now use the old version of HD Admin which was in (2019-2024) 
 ```
-https://create.roblox.com/store/asset/134396078990063/HD-Admin-Classic?pagePosition=0
+https://create.roblox.com/store/asset/134396078990063/HD-Admin-Classic
 ```
 - Note: The classic version of HD Admin may have many problems 
 
