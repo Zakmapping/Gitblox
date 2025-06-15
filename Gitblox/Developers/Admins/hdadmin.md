@@ -13,7 +13,14 @@ https://create.roblox.com/store/asset/857927023/HD-Admin
 ```
 2- Then Click **Get Model**
 
-- TUTORIALS FOR HOW TO SETUP HD ADMIN:
+### CLASSIC HD Admin:
+1- You can now use the old version of HD Admin which was in (2019-2024) 
+```
+https://create.roblox.com/store/asset/134396078990063/HD-Admin-Classic?pagePosition=0
+```
+- Note: The classic version of HD Admin may have many problems 
+
+### HOW TO SETUP HD Admin:
 https://youtu.be/174X5TWjwu4?si=yvrVaWeg3HllCLh2
 
 ## HD Admin MainModule:
